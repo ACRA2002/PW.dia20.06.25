@@ -1,0 +1,16 @@
+body {
+    transition: background-color 0.1s;
+    text-align: center;
+    margin-top: 25%;
+}
+
+button {
+    padding: 20px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #8B2252;
+    background-color: #C6E2FF;
+    border-radius: 30px;
+    border-color: #C0FF3E;
+    border-width: 5px;
+} 
